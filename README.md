@@ -122,7 +122,7 @@ The system is built using an **MVC Architecture** with **RESTful APIs**, ensurin
 ### 🌾 Farmer Mobile App
 
 **Farmer Dashboard**
-![Farmer Dashboard](assets/screenshots/Admin dashboard/Screenshot 2025-10-27 234419.png)
+![Farmer Dashboard](https://github.com/Amenda-Welgama/Farmer-Support-and-Crop-Collection-System-/issues/1#issuecomment-3453172995))
 
 **Crop Upload Screen**
 ![Crop Upload](assets/screenshots/crop_upload.png)
