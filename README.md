@@ -1,19 +1,19 @@
-# 🌾 Farmer – Crop Management System
+#  Farmer App & Crop Management System
 
-## 📖 Overview
+##  Overview
 The **Farmer – Crop Management System** is a cross-platform mobile and web application that empowers farmers and administrators through a unified digital ecosystem.  
 It streamlines crop management, order tracking, and communication between farmers and buyers — while providing admins full control over users, products, and orders.
 
 ---
 
-## 🚜 Problem & Opportunity
+##  Problem & Opportunity
 
 ### 🌱 Challenges in Modern Agriculture
 - **Fragmented Data:** Farmers struggle to track crop health, yield, and schedules in one place.  
 - **Information Gap:** Limited access to reliable and real-time farming advice.  
 - **Logistics Bottlenecks:** Manual coordination leads to delays and waste.
 
-### 💡 Our Opportunity
+### Our Opportunity
 To create a **real-time digital ecosystem** that empowers farmers and simplifies agricultural management through:
 - Centralized data management  
 - Real-time communication  
@@ -21,25 +21,25 @@ To create a **real-time digital ecosystem** that empowers farmers and simplifies
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 The system is built using an **MVC Architecture** with **RESTful APIs**, ensuring maintainability and scalability.
 
 **Security Features:**
-- 🔐 **JWT-Based Authentication**  
-- 🧩 **Role-Based Access Control (RBAC)**  
-- 🧼 **Data Sanitization & Validation**  
-- 🌍 **CORS & HTTPS Policies**
+-  **JWT-Based Authentication**  
+-  **Role-Based Access Control (RBAC)**
+-  **Data Sanitization & Validation**  
+-  **CORS & HTTPS Policies**
 
 ---
 
-## 📱 Farmer Mobile App
+##  Farmer Mobile App
 
 ### 🧰 Technologies
 - **React Native** – Cross-platform mobile development  
 - **Expo** – Simplified testing & camera/image picker integration  
 - **Axios** – Secure API communication  
 
-### 🌾 Key Features
+###  Key Features
 - **Farmer Dashboard:** Upload crops, track orders & chat with buyers  
 - **Crop Upload:** Add name, quantity, price & image (camera/gallery)  
 - **Orders Screen:** Real-time viewing of buyer requests & order statuses  
@@ -48,13 +48,13 @@ The system is built using an **MVC Architecture** with **RESTful APIs**, ensurin
 
 ---
 
-## 🖥️ Admin Dashboard (Web)
+##  Admin Dashboard (Web)
 
-### 🧰 Technologies
+###  Technologies
 - **React.js**
 - **CSS**
 
-### ⚡ Core Functionalities
+###  Core Functionalities
 - **Dashboard Overview:** Total users, products, orders, and categories  
 - **User Management:** Add, edit, delete & assign user roles (Admin/User)  
 - **Product Management:** Manage items, prices, stock & availability  
@@ -63,27 +63,27 @@ The system is built using an **MVC Architecture** with **RESTful APIs**, ensurin
 
 ---
 
-## 🧩 Backend (API Layer)
+##  Backend (API Layer)
 
-### 🧰 Technologies
+###  Technologies
 - **Node.js**
 - **Express.js**
 - **MySQL**
 - **Sequelize ORM**
 
-### 🧠 Core Functionalities
+###  Core Functionalities
 - User & Farmer Management  
 - Crop & Order Processing  
 - Integration between mobile app and admin dashboard  
 - Middleware for logging, validation, and performance monitoring  
 
-### 📡 API Design
+###  API Design
 - RESTful API with standardized JSON responses  
 - Pagination, filtering, and error handling support  
 
 ---
 
-## 🔒 Security & Testing
+##  Security & Testing
 
 - **JWT Authentication:** Secure session management  
 - **RBAC:** Restricted access for Admin & Farmer roles  
@@ -91,9 +91,9 @@ The system is built using an **MVC Architecture** with **RESTful APIs**, ensurin
 - **API Testing:** Conducted using **Postman**  
 
 **Test Coverage Includes:**
-- ✅ Status code validation (200, 400, 401, 500)  
-- ✅ Schema & data integrity  
-- ✅ Error handling & response time tracking  
+-  Status code validation (200, 400, 401, 500)  
+-  Schema & data integrity  
+-  Error handling & response time tracking  
 
 ---
 
@@ -109,11 +109,11 @@ The system is built using an **MVC Architecture** with **RESTful APIs**, ensurin
 
 ---
 
-## 🚀 Future Enhancements
-- 🌿 AI-based crop disease detection  
-- 📊 Predictive analytics for yield forecasting  
-- 💰 Integration with logistics & payment systems  
-- 🌐 Multilingual support  
+## Future Enhancements
+-  AI-based crop disease detection  
+-  Predictive analytics for yield forecasting  
+-  Integration with logistics & payment systems  
+-  Multilingual support  
 
 ---
 
@@ -122,10 +122,4 @@ Special thanks to our mentors and coordinators for their continuous guidance and
 
 ---
 
-## 🧩 How to Run the Project
 
-### 🔧 Backend
-```bash
-cd backend
-npm install
-npm start
