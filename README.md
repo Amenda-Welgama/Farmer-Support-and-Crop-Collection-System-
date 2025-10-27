@@ -117,6 +117,26 @@ The system is built using an **MVC Architecture** with **RESTful APIs**, ensurin
 
 ---
 
+## 📸 Screenshots
+
+### 🌾 Farmer Mobile App
+
+**Farmer Dashboard**
+![Farmer Dashboard](assets/screenshots/farmer_dashboard.png)
+
+**Crop Upload Screen**
+![Crop Upload](assets/screenshots/crop_upload.png)
+
+### 🖥️ Admin Dashboard
+
+**Admin Overview Page**
+![Admin Dashboard](assets/screenshots/admin_dashboard.png)
+
+**Order Management**
+![Order Management](assets/screenshots/order_management.png)
+
+---
+
 ## 🙏 Acknowledgements
 Special thanks to our mentors and coordinators for their continuous guidance and support throughout the project.
 
