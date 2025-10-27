@@ -101,11 +101,11 @@ The system is built using an **MVC Architecture** with **RESTful APIs**, ensurin
 
 | Team Member | Role | Responsibilities |
 |--------------|------|------------------|
-| **Dushani** | Backend Developer & Tester | Node.js APIs, authentication, and testing |
-| **Presha** | Backend Developer & Tester | Database integration, API logic, and validation |
-| **Kasuntha** | Frontend Developer (Web) | Admin dashboard UI and user management |
-| **Dinitha** | Frontend Developer (Web) | Dashboard design, product & order management |
-| **Nipuna** | Frontend Developer (Mobile App) | React Native app interface & feature implementation |
+| **Dushani-Ekanayake** | Backend Developer & Tester | Node.js APIs, authentication, and testing |
+| **Amenda-Welgama** | Backend Developer & Tester | Database integration, API logic, and validation |
+| **Kasuntha-2002** | Frontend Developer (Web) | Admin dashboard UI and user management |
+| **Dwijerathna** | Frontend Developer (Web) | Dashboard design, product & order management |
+| **UNNuwantha** | Frontend Developer (Mobile App) | React Native app interface & feature implementation |
 
 ---
 
