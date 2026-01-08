@@ -110,10 +110,47 @@ The system is built using an **MVC Architecture** with **RESTful APIs**, ensurin
 ---
 
 ## Future Enhancements
--  AI-based crop disease detection  
--  Predictive analytics for yield forecasting  
--  Integration with logistics & payment systems  
--  Multilingual support  
+
+1. AI-Based Crop Disease Detection
+
+Purpose: Automatically detect crop diseases using AI and image recognition from photos uploaded by farmers.
+Benefit: Early detection helps prevent crop loss and supports timely intervention.
+
+2. AI-Based Chatbot
+
+Purpose: Provide instant, real-time advice on crop management, pest control, and best farming practices.
+Benefit: Reduces information gaps and supports farmers with accurate, actionable guidance anytime.
+
+3. Predictive Analytics & Yield Forecasting
+
+Purpose: Use historical and real-time data to forecast crop yields and market trends.
+Benefit: Helps farmers plan production and sales more effectively, improving profitability.
+
+4. Live Location Tracking
+
+Purpose: Track the location of crops, farm equipment, and delivery vehicles in real-time.
+Benefit: Optimizes logistics, reduces delays, and ensures timely collection and delivery.
+
+5. Harvest Collection & Transport Management
+
+Purpose: Coordinate crop harvest collection, route planning, and transport schedules efficiently.
+Benefit: Minimizes wastage, improves supply chain efficiency, and ensures crops reach buyers on time.
+
+6. Integrated Payment Methods
+
+Purpose: Enable seamless digital transactions between farmers and buyers.
+Features: Support for mobile wallets, bank transfers, and QR-based payments.
+Benefit: Reduces cash handling risks, ensures fast, secure, and traceable payments.
+
+7. Integration with Logistics & Payment Systems
+
+Purpose: Link with third-party logistics and payment providers to streamline order fulfillment and transactions.
+Benefit: Enhances scalability, improves operational efficiency, and reduces manual intervention.
+
+8. Multilingual Support
+
+Purpose: Provide app interfaces and guidance in multiple languages.
+Benefit: Makes the system accessible to farmers from diverse linguistic backgrounds.
 
 ---
 
